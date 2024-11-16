@@ -1,0 +1,12 @@
+% Instance Facile
+
+% Nombre de machines et d'opérations
+m = 3;
+n = 5;
+
+% Temps de traitement pour chaque opération (en minutes)
+t = [3, 2, 7, 5, 4];
+
+% Poids de chaque opération
+w = [1, 3, 2, 4, 1];
+
